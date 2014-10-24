@@ -3,6 +3,11 @@ Data Sience Portfolio
 
 Below are some case studies to demonstrate both technical familiarity and judgement.
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 | Description | |
 | ----------------- | -- |
 | Teasing out seasonality from noisy consumer data using a multilevel regression" | IPY example |
